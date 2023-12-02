@@ -1,0 +1,10 @@
+import sys
+import csv
+
+A file will need to be created for the CSV file for the output.  The name of my file that I created is watchlist.csv and the CSV file I have of the movies and review will work as a test.
+
+This file is called movies.csv
+
+
+
+
